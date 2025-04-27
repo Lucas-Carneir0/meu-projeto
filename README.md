@@ -2,9 +2,9 @@
 "# meu-projeto" 
 ## Atualização na Main
 <<<<<<< HEAD
-(Sua edição da main)
+Teste de Lucas Carneiro 2ºAMs
 =======
-(Sua edição da feature-nova)
+Teste
 >>>>>>> feature-nova
 ## Atualização na Main
 ## Atualização na Feature
